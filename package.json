@@ -1,0 +1,16 @@
+{
+  "name": "03-bases-node",
+  "version": "0.1.0",
+  "description": "es una simple tabla de multiplicar la cual crear archivos de textos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Hidalgo",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  },
+  "devDependencies": {}
+}
